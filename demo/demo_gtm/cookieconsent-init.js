@@ -61,7 +61,7 @@ CookieConsent.run({
                     description: 'Our website uses essential cookies to ensure its proper operation and tracking cookies to understand how you interact with it. The latter will be set only after consent.',
                     acceptAllBtn: 'Accept',
                     acceptNecessaryBtn: 'Reject',
-                    showPreferencesBtn: 'Manage preferences',
+                    showPreferencesBtn: 'Manage with BTS',
                     closeIconLabel: 'Reject all and close',
                     footer: `
                         <a href="#link">Privacy Policy</a>

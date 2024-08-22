@@ -284,5 +284,5 @@ export const createConsentModal = (api, createMainContainer) => {
 
     getModalFocusableData(1);
 
-    addDataButtonListeners(dom._cmBody, api, createPreferencesModal, createMainContainer);
+    // addDataButtonListeners(dom._cmBody, api, createPreferencesModal, createMainContainer);
 };
